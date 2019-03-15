@@ -1831,46 +1831,6 @@ body {
 .cid-rgmmXz5Zkl .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
-.cid-rkK07iTMam {
-  padding-top: 75px;
-  padding-bottom: 75px;
-  background-color: #cccccc;
-}
-.cid-rkK07iTMam .mbr-overlay {
-  background-color: #ffffff;
-  opacity: 0.4;
-}
-.cid-rkK07iTMam .form-control,
-.cid-rkK07iTMam .field-input {
-  padding: 0.5rem;
-  background-color: #ffffff;
-  border-color: #cccccc;
-  color: #000000;
-  transition: 0.4s;
-  box-shadow: none;
-  outline: none;
-}
-.cid-rkK07iTMam .form-control:hover,
-.cid-rkK07iTMam .field-input:hover,
-.cid-rkK07iTMam .form-control:focus,
-.cid-rkK07iTMam .field-input:focus {
-  background-color: #767676;
-  border-color: #000000;
-  color: #000000;
-  box-shadow: none;
-  outline: none;
-}
-.cid-rkK07iTMam input::-webkit-input-placeholder,
-.cid-rkK07iTMam textarea::-webkit-input-placeholder {
-  color: #c1c1c1;
-}
-.cid-rkK07iTMam input:-moz-placeholder,
-.cid-rkK07iTMam textarea:-moz-placeholder {
-  color: #c1c1c1;
-}
-.cid-rkK07iTMam H4 {
-  text-align: center;
-}
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 60px;
