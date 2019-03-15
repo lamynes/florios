@@ -1823,7 +1823,7 @@ body {
 .cid-rkK07iTMam .field-input:hover,
 .cid-rkK07iTMam .form-control:focus,
 .cid-rkK07iTMam .field-input:focus {
-  background-color: #efefef;
+  background-color: #767676;
   border-color: #000000;
   color: #000000;
   box-shadow: none;
@@ -1836,6 +1836,9 @@ body {
 .cid-rkK07iTMam input:-moz-placeholder,
 .cid-rkK07iTMam textarea:-moz-placeholder {
   color: #c1c1c1;
+}
+.cid-rkK07iTMam H4 {
+  text-align: center;
 }
 .cid-rgmmXz5Zkl {
   padding-top: 75px;
